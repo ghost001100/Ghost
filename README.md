@@ -1,3 +1,4 @@
 * apt update
 * apt install git -y
-* ./ghost.sh
+* github.com/ghost001100/ghost.sh
+./ghost.sh
