@@ -1,2 +1,3 @@
-# Ghost
-Es una herramienta con varias utilidades.
+* apt update
+* apt install git -y
+* ./GHOST.sh
